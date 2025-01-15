@@ -1,1 +1,2 @@
-# Unified-college-management
+# Unified-college-management ( ACADEMIC PROJECT)
+
